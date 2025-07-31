@@ -1,14 +1,15 @@
 # Reinforcement Learning Specialization
 
-## Course Contents
-
 ## Project Structure
 
 ## Getting Started
 
-It requires Python 3.10 or higher.
+```shell
+python3 -m venv venv_rl
+source venv_rl/bin/activate
+python3 -m pip install -r requirements.txt
+```
 
 ## Resources
 
-- `RLbook2018.pdf`: The Reinforcement Learning textbook by Sutton and Barto (2018 edition)
-- Sutton and Barto's Reinforcement Learning textbook
+- "Reinforcement Learning: An Introduction" by Sutton and Barto
