@@ -1,6 +1,5 @@
 # Reinforcement Learning Specialization
 
-## Project Structure
 
 ## Getting Started
 
