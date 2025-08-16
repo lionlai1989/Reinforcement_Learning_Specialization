@@ -18,3 +18,5 @@ python3 -m pip install -r requirements.txt
 - "A Tutorial on Meta-Reinforcement Learning"
 - [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
 - [Modern Adaptive Control and Reinforcement Learning](https://macrl-book.github.io/book/)
+- Model-based Reinforcement Learning: A Survey
+- Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems
